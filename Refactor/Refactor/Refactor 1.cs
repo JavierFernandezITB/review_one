@@ -10,6 +10,7 @@ class Program
     static void Main(string[] args)
     {
         // Messages
+        
         const string MSG_FIRSTQUALIFICATIONIN = "Introdueix la primera qualificació";
         const string MSG_SECONDQUALIFICATIONIN = "Introdueix la segona qualificació";
         const string MSG_THIRDQUALIFICATIONIN = "Introdueix la tercera qualificació";

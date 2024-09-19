@@ -1,0 +1,15 @@
+E:\DAMv2 M13-Projecte 2425\review_one\Refactor\Refactor\bin\Debug\net8.0\Refactor.exe
+E:\DAMv2 M13-Projecte 2425\review_one\Refactor\Refactor\bin\Debug\net8.0\Refactor.deps.json
+E:\DAMv2 M13-Projecte 2425\review_one\Refactor\Refactor\bin\Debug\net8.0\Refactor.runtimeconfig.json
+E:\DAMv2 M13-Projecte 2425\review_one\Refactor\Refactor\bin\Debug\net8.0\Refactor.dll
+E:\DAMv2 M13-Projecte 2425\review_one\Refactor\Refactor\bin\Debug\net8.0\Refactor.pdb
+E:\DAMv2 M13-Projecte 2425\review_one\Refactor\Refactor\obj\Debug\net8.0\Refactor.GeneratedMSBuildEditorConfig.editorconfig
+E:\DAMv2 M13-Projecte 2425\review_one\Refactor\Refactor\obj\Debug\net8.0\Refactor.AssemblyInfoInputs.cache
+E:\DAMv2 M13-Projecte 2425\review_one\Refactor\Refactor\obj\Debug\net8.0\Refactor.AssemblyInfo.cs
+E:\DAMv2 M13-Projecte 2425\review_one\Refactor\Refactor\obj\Debug\net8.0\Refactor.csproj.CoreCompileInputs.cache
+E:\DAMv2 M13-Projecte 2425\review_one\Refactor\Refactor\obj\Debug\net8.0\Refactor.sourcelink.json
+E:\DAMv2 M13-Projecte 2425\review_one\Refactor\Refactor\obj\Debug\net8.0\Refactor.dll
+E:\DAMv2 M13-Projecte 2425\review_one\Refactor\Refactor\obj\Debug\net8.0\refint\Refactor.dll
+E:\DAMv2 M13-Projecte 2425\review_one\Refactor\Refactor\obj\Debug\net8.0\Refactor.pdb
+E:\DAMv2 M13-Projecte 2425\review_one\Refactor\Refactor\obj\Debug\net8.0\Refactor.genruntimeconfig.cache
+E:\DAMv2 M13-Projecte 2425\review_one\Refactor\Refactor\obj\Debug\net8.0\ref\Refactor.dll
